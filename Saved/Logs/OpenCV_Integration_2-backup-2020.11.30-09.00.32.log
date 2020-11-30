@@ -1,0 +1,1555 @@
+﻿Log file open, 11/30/20 08:58:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OpenCV_Integration
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(221339101) SRandInit(221339101).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191891
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVRInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-LeapMotionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-BodyState.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin OSVR
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.216s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SRFN56O (192.168.0.11:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/ServerTestMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -nohmd configuration=Z:/workspace/OpenCV_Integration/configuration.json -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.11.30-11.58.31:302][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-11.58.31:302][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.30-11.58.31:307][  0]LogInit: Computer: DESKTOP-SRFN56O
+[2020.11.30-11.58.31:307][  0]LogInit: User: fabio
+[2020.11.30-11.58.31:307][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.30-11.58.31:307][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.30-11.58.31:308][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.30-11.58.31:308][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.30-11.58.31:308][  0]LogMemory: Process Physical Memory: 274.90 MB used, 274.91 MB peak
+[2020.11.30-11.58.31:308][  0]LogMemory: Process Virtual Memory: 269.99 MB used, 269.99 MB peak
+[2020.11.30-11.58.31:308][  0]LogMemory: Physical Memory: 5871.18 MB used,  2252.36 MB free, 8123.54 MB total
+[2020.11.30-11.58.31:308][  0]LogMemory: Virtual Memory: 4773.91 MB used,  2252.36 MB free, 134217728.00 MB total
+[2020.11.30-11.58.31:323][  0]LogInit: Using OS detected language (pt-BR).
+[2020.11.30-11.58.31:323][  0]LogInit: Using OS detected locale (pt-BR).
+[2020.11.30-11.58.31:323][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the language.
+[2020.11.30-11.58.31:323][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the locale.
+[2020.11.30-11.58.31:780][  0]LogStreaming: Display: Took  0.458s to EndInitTextLocalization.
+[2020.11.30-11.58.31:804][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.30-11.58.31:804][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.30-11.58.31:811][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.30-11.58.31:857][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2020.11.30-11.58.31:857][  0]LogD3D11RHI:       4075/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.11.30-11.58.31:859][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.30-11.58.31:859][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.30-11.58.31:859][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.30-11.58.31:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.30-11.58.31:868][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.11.30-11.58.31:868][  0]LogWindows: EnumDisplayDevices:
+[2020.11.30-11.58.31:868][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2020.11.30-11.58.31:868][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:869][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:869][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:869][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:869][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:869][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:870][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-11.58.31:870][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.30-11.58.31:870][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2020.11.30-11.58.31:870][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.30-11.58.31:870][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.30-11.58.31:870][  0]LogRHI: Texture pool is 2853 MB (70% of 4075 MB)
+[2020.11.30-11.58.31:938][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.30-11.58.31:952][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.11.30-11.58.31:953][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (Z:/workspace/OpenCV_Integration/Intermediate/Shaders/WorkingDirectory/300/).
+[2020.11.30-11.58.31:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fabio/AppData/Local/Temp/UnrealShaderWorkingDir/97FE8D6343356928B1D3BBA6D2B7E47B/'.
+[2020.11.30-11.58.32:179][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.11.30-11.58.32:196][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.11.30-11.58.32:214][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.11.30-11.58.32:221][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.11.30-11.58.32:221][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.30-11.58.32:349][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.30-11.58.32:349][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.30-11.58.32:349][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.30-11.58.33:187][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.30-11.58.33:258][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/fabio/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.11.30-11.58.33:258][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fabio/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.11.30-11.58.33:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/workspace/OpenCV_Integration/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.30-11.58.33:259][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.30-11.58.33:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/workspace/OpenCV_Integration/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-11.58.33:259][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.30-11.58.33:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.30-11.58.33:289][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fabio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.30-11.58.33:289][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.30-11.58.33:289][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.30-11.58.33:303][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.30-11.58.33:304][  0]LogSlate: Using Freetype 2.6.0
+[2020.11.30-11.58.33:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-11.58.33:305][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-11.58.33:414][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2020.11.30-11.58.33:637][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.016579 seconds
+[2020.11.30-11.58.33:757][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-11.58.33:899][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.11.30-11.58.33:903][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.11.30-11.58.33:903][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.30-11.58.33:903][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.11.30-11.58.33:903][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.11.30-11.58.33:903][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.11.30-11.58.33:934][  0]LogNetVersion: OpenCV_Integration , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 887460973)
+[2020.11.30-11.58.34:583][  0]LogMoviePlayer: Initializing movie player
+[2020.11.30-11.58.35:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.30-11.58.35:205][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.30-11.58.35:483][  0]SourceControl: Source control is disabled
+[2020.11.30-11.58.35:483][  0]SourceControl: Source control is disabled
+[2020.11.30-11.58.35:504][  0]SourceControl: Source control is disabled
+[2020.11.30-11.58.35:916][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.30-11.58.36:123][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2020.11.30-11.58.36:123][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2020.11.30-11.58.36:123][  0]LeapMotionLog: Leap Plugin started v2.17.1
+[2020.11.30-11.58.36:165][  0]LogOcInput: OculusInput pre-init called
+[2020.11.30-11.58.36:211][  0]LogUObjectArray: 40858 objects as part of root set at end of initial load.
+[2020.11.30-11.58.36:211][  0]LogUObjectAllocator: 8494520 out of 0 bytes used by permanent object pool.
+[2020.11.30-11.58.36:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.30-11.58.36:264][  0]LogEngine: Initializing Engine...
+[2020.11.30-11.58.36:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.30-11.58.36:277][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.11.30-11.58.36:483][  0]LogInit: XAudio2 using 'Fones de ouvido (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.30-11.58.36:521][  0]LogInit: FAudioDevice initialized.
+[2020.11.30-11.58.36:548][  0]LogInit: Texture streaming: Enabled
+[2020.11.30-11.58.36:667][  0]LogInit: Display: Game Engine Initialized.
+[2020.11.30-11.58.36:668][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.11.30-11.58.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.30-11.58.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.11.30-11.58.36:780][  0]LogInit: Display: Starting Game.
+[2020.11.30-11.58.36:780][  0]LogNet: Browse: /Game/ServerTestMap?Name=Player
+[2020.11.30-11.58.36:780][  0]LogLoad: LoadMap: /Game/ServerTestMap?Name=Player
+[2020.11.30-11.58.36:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f46da478, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-11.58.36:849][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8e4158c60, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-11.58.36:857][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8e8a57a60, Size=72, Default__BP_Syringe_C Function /Game/BP_Syringe.BP_Syringe_C:ExecuteUbergraph_BP_Syringe
+[2020.11.30-11.58.36:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f3421600, Size=1160, Default__LeapPhysicsPawn_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-11.58.36:866][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8e8a6e200, Size=752, Default__LeapPhysicsLowPolyHand_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2_C:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-11.58.36:870][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f46d8310, Size=4, Default__BSLowPolyLeftAnimBP_C Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-11.58.36:870][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:870][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:870][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:870][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:871][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:871][  0]LoadErrors: Failed to load /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C Referenced by AnimGraph
+[2020.11.30-11.58.36:871][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:871][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:871][  0]LoadErrors: Failed to load /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C Referenced by AnimGraph
+[2020.11.30-11.58.36:871][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:871][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:871][  0]LoadErrors: Failed to load /Script/LeapMotionEditor.AnimGraphNode_ModifyBodyStateMappedBones Referenced by AnimGraph
+[2020.11.30-11.58.36:872][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:872][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:872][  0]LoadErrors: Failed to load /Script/LeapMotionEditor.AnimGraphNode_ModifyBodyStateMappedBones Referenced by AnimGraph
+[2020.11.30-11.58.36:872][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:874][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f46d8280, Size=4, Default__BSLowPolyRightAnimBP_C Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-11.58.36:875][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:875][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:875][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:875][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:876][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:876][  0]LoadErrors: Failed to load /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C Referenced by AnimGraph
+[2020.11.30-11.58.36:876][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:876][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:876][  0]LoadErrors: Failed to load /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C Referenced by AnimGraph
+[2020.11.30-11.58.36:876][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:876][  0]LogLinker: Warning: Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:876][  0]LoadErrors: Failed to load /Script/LeapMotionEditor.AnimGraphNode_ModifyBodyStateMappedBones Referenced by AnimGraph
+[2020.11.30-11.58.36:876][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file '/Script/LeapMotionEditor'
+[2020.11.30-11.58.36:876][  0]LogLinker: Warning: Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:876][  0]LoadErrors: Failed to load /Script/LeapMotionEditor.AnimGraphNode_ModifyBodyStateMappedBones Referenced by AnimGraph
+[2020.11.30-11.58.36:876][  0]LogUObjectGlobals: Warning: Failed to load '/Script/LeapMotionEditor': Can't find file for asset '/Script/LeapMotionEditor' while loading NULL.
+[2020.11.30-11.58.36:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f32aed40, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-11.58.36:932][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8e4158c60, Size=104
+[2020.11.30-11.58.36:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8e4185e50, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Engine/Transient.REINST_BP_ApiHandler_ServerTestMap_C_3:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-11.58.36:932][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f32aed40, Size=176
+[2020.11.30-11.58.36:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8e2118580, Size=176, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_5:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-11.58.36:933][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8e8a57a60, Size=72
+[2020.11.30-11.58.36:933][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f16fe0c0, Size=72, Default__BP_Syringe_C Function /Engine/Transient.REINST_BP_Syringe_C_7:ExecuteUbergraph_BP_Syringe
+[2020.11.30-11.58.36:934][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8e8a6e200, Size=752
+[2020.11.30-11.58.36:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f16f1c00, Size=752, Default__LeapPhysicsLowPolyHand_2_C Function /Engine/Transient.REINST_LeapPhysicsLowPolyHand_2_C_8:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-11.58.36:934][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f46d8310, Size=4
+[2020.11.30-11.58.36:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18aed88, Size=4, Default__BSLowPolyLeftAnimBP_C Function /Engine/Transient.REINST_BSLowPolyLeftAnimBP_C_0:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-11.58.36:934][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f46d8280, Size=4
+[2020.11.30-11.58.36:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18aed90, Size=4, Default__BSLowPolyRightAnimBP_C Function /Engine/Transient.REINST_BSLowPolyRightAnimBP_C_1:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-11.58.36:935][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f3421600, Size=1160
+[2020.11.30-11.58.36:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f16cd600, Size=1160, Default__LeapPhysicsPawn_2_C Function /Engine/Transient.REINST_LeapPhysicsPawn_2_C_9:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-11.58.36:969][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] InputKey Event specifies invalid FKey'LeapGrabR' for  LeapGrabR
+[2020.11.30-11.58.36:970][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] InputKey Event specifies invalid FKey'LeapGrabL' for  LeapGrabL
+[2020.11.30-11.58.36:980][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f12a5fa0, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-11.58.36:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f129f700, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-11.58.36:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f1246e30, Size=72, Default__BP_Syringe_C Function /Game/BP_Syringe.BP_Syringe_C:ExecuteUbergraph_BP_Syringe
+[2020.11.30-11.58.36:989][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f121f100, Size=760, Default__LeapPhysicsLowPolyHand_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2_C:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-11.58.36:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18ac920, Size=4, Default__BSLowPolyLeftAnimBP_C Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-11.58.36:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18ac7b8, Size=4, Default__BSLowPolyRightAnimBP_C Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-11.58.36:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f11e2400, Size=1160, Default__LeapPhysicsPawn_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-11.58.37:003][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] [0008.09] Compile of LeapPhysicsLowPolyHand_2 successful, but with 2 Warning(s) [in 90 ms] (/Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2)
+[2020.11.30-11.58.37:005][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f46da478, Size=4
+[2020.11.30-11.58.37:005][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18ac678, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_21:ExecuteUbergraph_ServerTestMap
+[2020.11.30-11.58.37:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d8f18ac6c8, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-11.58.37:072][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.422500ms] /LeapMotion/Mesh/LowPoly_Rigged_Hand_Right.LowPoly_Rigged_Hand_Right
+[2020.11.30-11.58.37:072][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.405200ms] /LeapMotion/Mesh/LowPoly_Rigged_Hand_Left.LowPoly_Rigged_Hand_Left
+[2020.11.30-11.58.37:115][  0]LogAIModule: Creating AISystem for world ServerTestMap
+[2020.11.30-11.58.37:115][  0]LogLoad: Game class is 'GameModeBase'
+[2020.11.30-11.58.37:124][  0]LogWorld: Bringing World /Game/ServerTestMap.ServerTestMap up for play (max tick rate 0) at 2020.11.30-08.58.37
+[2020.11.30-11.58.37:125][  0]LogWorld: Bringing up level for play took: 0.009566
+[2020.11.30-11.58.37:125][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.11.30-11.58.37:126][  0]LogVaRest: Request (json): GET http://127.0.0.1:5000/load-pivots 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.37:126][  0]LogVaRest: Error: UVaRestLibrary::LoadJsonFromFile(90): Can't open file Z:/workspace/OpenCV_Integration/configuration.json
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Accessed None trying to read property CallFunc_LoadJsonFromFile_ReturnValue
+	BP_MediaPlayerActor_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.BP_MediaPlayerActor_105
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor:005A
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Script call stack:
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ReceiveBeginPlay
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Attempted to access index 0 from array CallFunc_GetFieldNames_ReturnValue of length 0!
+	BP_MediaPlayerActor_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.BP_MediaPlayerActor_105
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor:00BD
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Script call stack:
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ReceiveBeginPlay
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+
+[2020.11.30-11.58.37:126][  0]LogBlueprintUserMessages: [BP_MediaPlayerActor_105] Fields[0]: 
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Accessed None trying to read property CallFunc_LoadJsonFromFile_ReturnValue
+	BP_MediaPlayerActor_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.BP_MediaPlayerActor_105
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor:012D
+[2020.11.30-11.58.37:126][  0]LogScript: Warning: Script call stack:
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ReceiveBeginPlay
+	Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+
+[2020.11.30-11.58.37:126][  0]LogBlueprintUserMessages: [BP_MediaPlayerActor_105] New video path: 
+[2020.11.30-11.58.37:128][  0]LogBlueprintUserMessages: [BP_MediaPlayerActor_105] Video opened: true
+[2020.11.30-11.58.37:129][  0]LogLoad: Took 0.348798 seconds to LoadMap(/Game/ServerTestMap)
+[2020.11.30-11.58.37:193][  0]LogLoad: (Engine Initialization) Total time: 8.28 seconds
+[2020.11.30-11.58.37:193][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.30-11.58.37:218][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-11.58.37:299][  0]LeapMotionLog: serviceMessageLoop started.
+[2020.11.30-11.58.37:299][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2020.11.30-11.58.37:299][  0]LeapMotionLog: AddEventDelegate (1).
+[2020.11.30-11.58.37:299][  0]LeapMotionLog: AddEventDelegate (2).
+[2020.11.30-11.58.37:300][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2020.11.30-11.58.37:943][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.30-11.58.37:961][  1]LeapMotionLog: LeapService: OnConnect.
+[2020.11.30-11.58.38:010][  1]LogTemp: Bone cache synced: 20
+[2020.11.30-11.58.38:010][  1]LogTemp: Bone cache synced: 20
+[2020.11.30-11.58.39:178][ 37]LogHttp: Warning: 000001D8F1896B00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.39:178][ 37]LogHttp: Warning: 000001D8F1896B00: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.39:178][ 37]LogHttp: Warning: 000001D8F1896B00: libcurl info message cache 1 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.39:178][ 37]LogHttp: Warning: 000001D8F1896B00: libcurl info message cache 2 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.39:178][ 37]LogHttp: Warning: 000001D8F1896B00: libcurl info message cache 3 (Closing connection 0)
+[2020.11.30-11.58.39:178][ 37]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/load-pivots
+[2020.11.30-11.58.39:209][ 37]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:243][ 38]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:276][ 39]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:309][ 40]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:343][ 41]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:376][ 42]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:409][ 43]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:443][ 44]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:476][ 45]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:509][ 46]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:543][ 47]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:576][ 48]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:609][ 49]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:643][ 50]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:676][ 51]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:709][ 52]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:743][ 53]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:776][ 54]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:809][ 55]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:843][ 56]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:877][ 57]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:910][ 58]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:943][ 59]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.39:976][ 60]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:009][ 61]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:043][ 62]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:076][ 63]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:110][ 64]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:143][ 65]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:177][ 66]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:210][ 67]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:243][ 68]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:276][ 69]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:310][ 70]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:343][ 71]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:376][ 72]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:410][ 73]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:443][ 74]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:477][ 75]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:510][ 76]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:543][ 77]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:577][ 78]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:610][ 79]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:643][ 80]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:677][ 81]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:710][ 82]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:744][ 83]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:777][ 84]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:810][ 85]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:843][ 86]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:877][ 87]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:910][ 88]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:944][ 89]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.40:977][ 90]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:010][ 91]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:044][ 92]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:077][ 93]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:110][ 94]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:144][ 95]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:177][ 96]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:210][ 97]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:244][ 98]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: libcurl info message cache 2 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: libcurl info message cache 3 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:245][ 99]LogHttp: Warning: 000001D8F189C880: libcurl info message cache 4 (Closing connection 1)
+[2020.11.30-11.58.41:245][ 99]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:245][ 99]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:245][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:004F
+[2020.11.30-11.58.41:245][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0088
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:00C3
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:019B
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:01D2
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0209
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:02DE
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0317
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0352
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:004F
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:246][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:0088
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:00C3
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:247][ 99]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:019B
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:01D2
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:0209
+[2020.11.30-11.58.41:247][ 99]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:247][ 99]LogBlueprintUserMessages: [Syringe] Overlap Started: Arm
+[2020.11.30-11.58.41:247][ 99]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:277][ 99]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:279][100]LogHttp: Warning: 000001D8F189CA00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:280][100]LogHttp: Warning: 000001D8F189CA00: libcurl info message cache 5 (Closing connection 2)
+[2020.11.30-11.58.41:280][100]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:280][100]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:004F
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0088
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:00C3
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:019B
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:01D2
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0209
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:02DE
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	LeapPhysicsPawn_2_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.LeapPlayer
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse:0317
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:004F
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:0088
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:00C3
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:019B
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:01D2
+[2020.11.30-11.58.41:280][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:281][100]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:0209
+[2020.11.30-11.58.41:281][100]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:281][100]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:310][100]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:312][101]LogHttp: Warning: 000001D8F189F400: libcurl info message cache 5 (Closing connection 3)
+[2020.11.30-11.58.41:312][101]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:312][101]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:312][101]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:313][101]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:313][101]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:004F
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:0088
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:00C3
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:313][101]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:019B
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetObjectField_ReturnValue
+	BP_Syringe_C /Game/ServerTestMap.ServerTestMap:PersistentLevel.Syringe
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse:01D2
+[2020.11.30-11.58.41:313][101]LogScript: Warning: Script call stack:
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:PoseResponse
+	Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+	Function /Game/BP_Syringe.BP_Syringe_C:SetPositionFromResponse
+
+[2020.11.30-11.58.41:313][101]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:343][101]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:344][102]LogHttp: Warning: 000001D8F189F700: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:345][102]LogHttp: Warning: 000001D8F189F700: libcurl info message cache 5 (Closing connection 4)
+[2020.11.30-11.58.41:345][102]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:345][102]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:376][102]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:378][103]LogHttp: Warning: 000001D8E89FB700: libcurl info message cache 5 (Closing connection 5)
+[2020.11.30-11.58.41:378][103]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:378][103]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:409][103]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:411][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:412][104]LogHttp: Warning: 000001D8E89FB400: libcurl info message cache 5 (Closing connection 6)
+[2020.11.30-11.58.41:412][104]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:412][104]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:443][104]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:445][105]LogHttp: Warning: 000001D8E89FBB80: libcurl info message cache 5 (Closing connection 7)
+[2020.11.30-11.58.41:445][105]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:445][105]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:445][105]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:445][105]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:445][105]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:445][105]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:446][105]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:476][105]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:478][106]LogHttp: Warning: 000001D8E89FBE80: libcurl info message cache 5 (Closing connection 8)
+[2020.11.30-11.58.41:478][106]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:478][106]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:478][106]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:478][106]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:478][106]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:479][106]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:479][106]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:510][106]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:512][107]LogHttp: Warning: 000001D8E89F8580: libcurl info message cache 5 (Closing connection 9)
+[2020.11.30-11.58.41:512][107]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:512][107]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:543][107]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:545][108]LogHttp: Warning: 000001D8E89F8100: libcurl info message cache 5 (Closing connection 10)
+[2020.11.30-11.58.41:545][108]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:545][108]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:577][108]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:578][109]LogHttp: Warning: 000001D8E89F8880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:578][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:579][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:579][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:579][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:579][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:579][109]LogHttp: Warning: 000001D8E89F8880: libcurl info message cache 5 (Closing connection 11)
+[2020.11.30-11.58.41:579][109]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:579][109]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:610][109]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:612][110]LogHttp: Warning: 000001D8E89FA200: libcurl info message cache 5 (Closing connection 12)
+[2020.11.30-11.58.41:612][110]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:612][110]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:644][110]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:645][111]LogHttp: Warning: 000001D8F2808280: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:646][111]LogHttp: Warning: 000001D8F2808280: libcurl info message cache 5 (Closing connection 13)
+[2020.11.30-11.58.41:646][111]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:646][111]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:677][111]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:678][112]LogHttp: Warning: 000001D8F2808580: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:679][112]LogHttp: Warning: 000001D8F2808580: libcurl info message cache 5 (Closing connection 14)
+[2020.11.30-11.58.41:679][112]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:679][112]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:710][112]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:712][113]LogHttp: Warning: 000001D8F2808100: libcurl info message cache 5 (Closing connection 15)
+[2020.11.30-11.58.41:712][113]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:712][113]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:743][113]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 0 (Found bundle for host 127.0.0.1: 0x1d8f792ffb8 [serially])
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 1 (Hostname 127.0.0.1 was found in DNS cache)
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 2 (  Trying 127.0.0.1...)
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 3 (connect to 127.0.0.1 port 5000 failed: Connection refused)
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 4 (Failed to connect to 127.0.0.1 port 5000: Connection refused)
+[2020.11.30-11.58.41:745][114]LogHttp: Warning: 000001D8F2808A00: libcurl info message cache 5 (Closing connection 16)
+[2020.11.30-11.58.41:745][114]LogVaRest: Error: Request failed (-1): http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save=
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name hmd of type Object
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: UVaRestJsonObject::GetObjectField(354): No field with name syringe_102 of type Object
+[2020.11.30-11.58.41:745][114]LogVaRest: Warning: No field with name target_pivot_id of type String
+[2020.11.30-11.58.41:777][114]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:810][115]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:843][116]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:876][117]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:911][118]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:943][119]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.41:976][120]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:009][121]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:043][122]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:077][123]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:110][124]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:143][125]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:177][126]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:210][127]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:244][128]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:277][129]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:310][130]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:343][131]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:377][132]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:410][133]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:444][134]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:477][135]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:510][136]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:544][137]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:577][138]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:610][139]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:644][140]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:677][141]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:710][142]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:743][143]LogVaRest: Request (json): GET http://127.0.0.1:5000/pose-from-multiple-pivots?reference=9&context=test&pivot_to_save= 
+JSON(
+{
+}
+)JSON
+[2020.11.30-11.58.42:805][144]LogSlate: Window 'OpenCV_Integration (64-bit, PCD3D_SM5) ' being destroyed
+[2020.11.30-11.58.42:805][144]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-11.58.42:808][144]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-11.58.42:810][144]LogEngine: All Windows Closed
+[2020.11.30-11.58.42:810][144]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.11.30-11.58.43:270][145]LogExit: Preparing to exit.
+[2020.11.30-11.58.43:270][145]LogMoviePlayer: Shutting down movie player
+[2020.11.30-11.58.44:260][145]LogExit: Game engine shut down
+[2020.11.30-11.58.44:263][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18ac678, Size=4
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8e4185e50, Size=104
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f16fe0c0, Size=72
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f16cd600, Size=1160
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f16f1c00, Size=752
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18aed88, Size=4
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18aed90, Size=4
+[2020.11.30-11.58.44:264][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8e2118580, Size=176
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f12a5fa0, Size=104
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f129f700, Size=176
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f1246e30, Size=72
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f121f100, Size=760
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18ac920, Size=4
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18ac7b8, Size=4
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f11e2400, Size=1160
+[2020.11.30-11.58.44:265][145]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d8f18ac6c8, Size=4
+[2020.11.30-11.58.44:332][145]LogExit: Object subsystem successfully closed.
+[2020.11.30-11.58.44:350][145]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.30-11.58.44:353][145]LogD3D11RHI: Shutdown
+[2020.11.30-11.58.44:353][145]LogD3D11RHI: CleanupD3DDevice
+[2020.11.30-11.58.44:355][145]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (344)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module SequenceRecorder (342)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module AutomationController (340)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module AutomationWorker (338)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module AIModule (336)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module GameplayDebugger (335)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module AITestSuite (333)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (330)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (328)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (326)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (324)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module CharacterAI (322)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module SessionServices (320)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (318)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (316)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module MovieScene (314)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (308)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module PortalServices (306)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module PortalRpc (304)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module MessagingRpc (302)
+[2020.11.30-11.58.44:373][145]LogModuleManager: Shutting down and abandoning module ProfilerService (300)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module TaskGraph (298)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module SteamVRController (296)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (294)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module OculusInput (292)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (290)
+[2020.11.30-11.58.44:493][145]LogModuleManager: Shutting down and abandoning module LeapMotion (288)
+[2020.11.30-11.58.44:493][145]LeapMotionLog: Leap Plugin shutdown.
+[2020.11.30-11.58.44:493][145]BodyStateLog: Id: 1
+[2020.11.30-11.58.44:493][145]LogUObjectArray: Warning: Invalid object index -572662307
+[2020.11.30-11.58.44:493][145]BodyStateLog: BodyState::Device Detached: Leap Motion (1)

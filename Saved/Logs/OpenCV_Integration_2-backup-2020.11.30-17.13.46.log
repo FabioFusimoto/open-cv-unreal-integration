@@ -1,0 +1,1267 @@
+﻿Log file open, 11/30/20 09:04:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OpenCV_Integration
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-419227365) SRandInit(-419227364).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188043
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVRInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/VaRestPlugin/Binaries/Win64/UE4Editor-VaRestEditorPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-LeapMotionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64/UE4Editor-BodyState.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file Z:/workspace/OpenCV_Integration/Plugins/VictoryPlugin/Binaries/Win64/UE4Editor-VictoryBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin OSVR
+LogPluginManager: Mounting plugin VaRestPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogStreaming: Display: Took  1.429s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-SRFN56O (192.168.0.11:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.11.30-12.04.37:187][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-12.04.37:187][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.30-12.04.37:207][  0]LogInit: Computer: DESKTOP-SRFN56O
+[2020.11.30-12.04.37:207][  0]LogInit: User: fabio
+[2020.11.30-12.04.37:207][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.30-12.04.37:207][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.30-12.04.37:208][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.30-12.04.37:208][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.30-12.04.37:208][  0]LogMemory: Process Physical Memory: 275.31 MB used, 275.31 MB peak
+[2020.11.30-12.04.37:208][  0]LogMemory: Process Virtual Memory: 269.94 MB used, 269.94 MB peak
+[2020.11.30-12.04.37:208][  0]LogMemory: Physical Memory: 5748.52 MB used,  2375.02 MB free, 8123.54 MB total
+[2020.11.30-12.04.37:208][  0]LogMemory: Virtual Memory: 4773.91 MB used,  2375.02 MB free, 134217728.00 MB total
+[2020.11.30-12.04.37:224][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.11.30-12.04.37:224][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.11.30-12.04.37:691][  0]LogStreaming: Display: Took  0.468s to EndInitTextLocalization.
+[2020.11.30-12.04.37:692][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.30-12.04.37:724][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.30-12.04.37:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.30-12.04.37:930][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.30-12.04.37:974][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2020.11.30-12.04.37:974][  0]LogD3D11RHI:       4075/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.11.30-12.04.37:976][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.30-12.04.37:976][  0]LogD3D11RHI:       0/0/4061 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.30-12.04.37:976][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.30-12.04.37:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.30-12.04.37:985][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2020.11.30-12.04.37:985][  0]LogWindows: EnumDisplayDevices:
+[2020.11.30-12.04.37:985][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2020.11.30-12.04.37:985][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:985][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:986][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:986][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:986][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:986][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:986][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2020.11.30-12.04.37:987][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.30-12.04.37:987][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2020.11.30-12.04.37:987][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.30-12.04.37:987][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.30-12.04.37:987][  0]LogRHI: Texture pool is 2853 MB (70% of 4075 MB)
+[2020.11.30-12.04.38:054][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.30-12.04.38:066][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.11.30-12.04.38:067][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (Z:/workspace/OpenCV_Integration/Intermediate/Shaders/WorkingDirectory/10592/).
+[2020.11.30-12.04.38:067][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fabio/AppData/Local/Temp/UnrealShaderWorkingDir/2734B71A42E7E16E3B1F9498C437A5A3/'.
+[2020.11.30-12.04.38:266][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.11.30-12.04.38:282][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.11.30-12.04.38:297][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.11.30-12.04.38:312][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.11.30-12.04.38:327][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.11.30-12.04.38:342][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.11.30-12.04.38:357][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.11.30-12.04.38:376][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.11.30-12.04.38:384][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.11.30-12.04.38:398][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.11.30-12.04.38:412][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.11.30-12.04.38:426][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.11.30-12.04.38:440][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.11.30-12.04.38:454][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.11.30-12.04.38:470][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.11.30-12.04.38:497][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.11.30-12.04.38:497][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.11.30-12.04.38:510][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.11.30-12.04.38:512][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.11.30-12.04.38:553][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.11.30-12.04.38:567][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.11.30-12.04.38:583][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.11.30-12.04.38:599][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.11.30-12.04.38:612][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.11.30-12.04.38:626][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.11.30-12.04.38:626][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.30-12.04.38:749][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.30-12.04.38:749][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.30-12.04.38:749][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.30-12.04.39:540][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/fabio/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fabio/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/workspace/OpenCV_Integration/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/workspace/OpenCV_Integration/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.30-12.04.39:605][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.30-12.04.39:624][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.30-12.04.39:637][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fabio/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.30-12.04.39:637][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.30-12.04.39:637][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.30-12.04.39:650][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.30-12.04.39:650][  0]LogSlate: Using Freetype 2.6.0
+[2020.11.30-12.04.39:651][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-12.04.39:651][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.30-12.04.39:785][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2020.11.30-12.04.40:108][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.30-12.04.40:258][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.11.30-12.04.40:261][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.11.30-12.04.40:261][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.30-12.04.40:261][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.11.30-12.04.40:261][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.11.30-12.04.40:261][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.11.30-12.04.40:298][  0]LogNetVersion: OpenCV_Integration , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 887460973)
+[2020.11.30-12.04.40:702][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041292 seconds
+[2020.11.30-12.04.40:709][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.11.30-12.04.40:709][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2020.11.30-12.04.40:709][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.30-12.04.42:701][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.30-12.04.42:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.30-12.04.43:290][  0]SourceControl: Source control is disabled
+[2020.11.30-12.04.43:290][  0]SourceControl: Source control is disabled
+[2020.11.30-12.04.43:309][  0]SourceControl: Source control is disabled
+[2020.11.30-12.04.43:328][  0]SourceControl: Source control is disabled
+[2020.11.30-12.04.43:888][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.30-12.04.44:107][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2020.11.30-12.04.44:107][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2020.11.30-12.04.44:107][  0]LeapMotionLog: Leap Plugin started v2.17.1
+[2020.11.30-12.04.44:148][  0]LogOcInput: OculusInput pre-init called
+[2020.11.30-12.04.44:272][  0]LogEngine: Initializing Engine...
+[2020.11.30-12.04.44:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.30-12.04.44:908][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.11.30-12.04.45:156][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.30-12.04.45:195][  0]LogInit: XAudio2 using 'Fones de ouvido (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.30-12.04.45:282][  0]LogInit: FAudioDevice initialized.
+[2020.11.30-12.04.45:369][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/fabio/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.11.30-12.04.45:389][  0]LogInit: Texture streaming: Enabled
+[2020.11.30-12.04.45:412][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.30-12.04.45:429][  0]LogInit: Transaction tracking system initialized
+[2020.11.30-12.04.45:460][  0]BlueprintLog: New page: Editor Load
+[2020.11.30-12.04.45:552][  0]LocalizationService: Localization service is disabled
+[2020.11.30-12.04.45:679][  0]LogConsoleResponse: Display: 
+[2020.11.30-12.04.45:862][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.30-12.04.45:862][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.30-12.04.45:862][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.11.30-12.04.45:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.11.30-12.04.45:862][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.11.30-12.04.46:057][  0]LogFileCache: Scanning file cache for directory 'Z:/workspace/OpenCV_Integration/Content/' took 0.02s
+[2020.11.30-12.04.46:344][  0]SourceControl: Source control is disabled
+[2020.11.30-12.04.46:344][  0]Cmd: MAP LOAD FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.30-12.04.46:344][  0]LightingResults: New page: Lighting Build
+[2020.11.30-12.04.46:348][  0]MapCheck: New page: Map Check
+[2020.11.30-12.04.46:348][  0]LightingResults: New page: Lighting Build
+[2020.11.30-12.04.46:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e3ff600, Size=72, Default__BP_Syringe_C Function /Game/BP_Syringe.BP_Syringe_C:ExecuteUbergraph_BP_Syringe
+[2020.11.30-12.04.46:499][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e3ff600, Size=72
+[2020.11.30-12.04.46:499][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e3fd580, Size=72, Default__BP_Syringe_C Function /Engine/Transient.REINST_BP_Syringe_C_7:ExecuteUbergraph_BP_Syringe
+[2020.11.30-12.04.46:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e3b6f70, Size=72, Default__BP_Syringe_C Function /Game/BP_Syringe.BP_Syringe_C:ExecuteUbergraph_BP_Syringe
+[2020.11.30-12.04.46:513][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4da1b0, Size=4, Default__BSLowPolyLeftAnimBP_C Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-12.04.46:518][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4da1b0, Size=4
+[2020.11.30-12.04.46:518][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4da1b0, Size=4, Default__BSLowPolyLeftAnimBP_C Function /Engine/Transient.REINST_BSLowPolyLeftAnimBP_C_0:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-12.04.46:520][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4da050, Size=4, Default__BSLowPolyLeftAnimBP_C Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP
+[2020.11.30-12.04.46:525][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4da018, Size=4, Default__BSLowPolyRightAnimBP_C Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-12.04.46:530][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4da018, Size=4
+[2020.11.30-12.04.46:530][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4da018, Size=4, Default__BSLowPolyRightAnimBP_C Function /Engine/Transient.REINST_BSLowPolyRightAnimBP_C_1:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-12.04.46:532][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4d9eb8, Size=4, Default__BSLowPolyRightAnimBP_C Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP
+[2020.11.30-12.04.46:551][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e0c1900, Size=752, Default__LeapPhysicsLowPolyHand_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2_C:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-12.04.46:572][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e0c1900, Size=752
+[2020.11.30-12.04.46:572][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e023100, Size=752, Default__LeapPhysicsLowPolyHand_2_C Function /Engine/Transient.REINST_LeapPhysicsLowPolyHand_2_C_13:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-12.04.46:587][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] InputKey Event specifies invalid FKey'LeapGrabR' for  LeapGrabR
+[2020.11.30-12.04.46:588][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] InputKey Event specifies invalid FKey'LeapGrabL' for  LeapGrabL
+[2020.11.30-12.04.46:596][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0deab100, Size=752, Default__LeapPhysicsLowPolyHand_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2_C:ExecuteUbergraph_LeapPhysicsLowPolyHand_2
+[2020.11.30-12.04.46:598][  0]LogBlueprint: Warning: [Compiler LeapPhysicsLowPolyHand_2] [0012.24] Compile of LeapPhysicsLowPolyHand_2 successful, but with 2 Warning(s) [in 33 ms] (/Game/Modules/PickupAndDrop/LeapPhysicsLowPolyHand_2.LeapPhysicsLowPolyHand_2)
+[2020.11.30-12.04.46:604][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d721ee400, Size=1160, Default__LeapPhysicsPawn_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-12.04.46:614][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d721ee400, Size=1160
+[2020.11.30-12.04.46:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0df88f00, Size=1160, Default__LeapPhysicsPawn_2_C Function /Engine/Transient.REINST_LeapPhysicsPawn_2_C_15:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-12.04.46:619][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d721b2400, Size=1160, Default__LeapPhysicsPawn_2_C Function /Game/Modules/PickupAndDrop/LeapPhysicsPawn_2.LeapPhysicsPawn_2_C:ExecuteUbergraph_LeapPhysicsPawn_2
+[2020.11.30-12.04.46:624][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0d9c5d70, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-12.04.46:629][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0d9c5d70, Size=104
+[2020.11.30-12.04.46:629][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0d9c5d70, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Engine/Transient.REINST_BP_ApiHandler_ServerTestMap_C_17:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-12.04.46:633][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0b79b430, Size=104, Default__BP_ApiHandler_ServerTestMap_C Function /Game/BP_ApiHandler_ServerTestMap.BP_ApiHandler_ServerTestMap_C:ExecuteUbergraph_BP_ApiHandler_ServerTestMap
+[2020.11.30-12.04.46:640][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0da13f60, Size=136, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.04.46:646][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0da13f60, Size=136
+[2020.11.30-12.04.46:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0da10360, Size=136, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_19:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.04.46:653][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d7423e5c0, Size=136, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.04.46:671][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4d91e0, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.04.46:672][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4d91e0, Size=4
+[2020.11.30-12.04.46:672][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4d91e0, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_21:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.04.46:673][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d0e4d8d28, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.04.46:813][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.442700ms] /LeapMotion/Mesh/LowPoly_Rigged_Hand_Right.LowPoly_Rigged_Hand_Right
+[2020.11.30-12.04.46:819][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.383600ms] /LeapMotion/Mesh/LowPoly_Rigged_Hand_Left.LowPoly_Rigged_Hand_Left
+[2020.11.30-12.04.46:960][  0]LogAIModule: Creating AISystem for world ServerTestMap
+[2020.11.30-12.04.46:978][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e3fd580, Size=72
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4da1b0, Size=4
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4da018, Size=4
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e023100, Size=752
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0df88f00, Size=1160
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0d9c5d70, Size=104
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0da10360, Size=136
+[2020.11.30-12.04.46:992][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4d91e0, Size=4
+[2020.11.30-12.04.46:994][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.30-12.04.47:074][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.165ms to complete.
+[2020.11.30-12.04.47:074][  0]LogFileHelpers: Loading map 'ServerTestMap' took 0.730
+[2020.11.30-12.04.47:249][  0]LogCollectionManager: Loaded 0 collections in 0.002160 seconds
+[2020.11.30-12.04.47:293][  0]LogFileCache: Scanning file cache for directory 'Z:/workspace/OpenCV_Integration/Saved/Collections/' took 0.01s
+[2020.11.30-12.04.47:293][  0]LogFileCache: Scanning file cache for directory 'Z:/workspace/OpenCV_Integration/Content/Developers/fabio/Collections/' took 0.01s
+[2020.11.30-12.04.47:293][  0]LogFileCache: Scanning file cache for directory 'Z:/workspace/OpenCV_Integration/Content/Collections/' took 0.01s
+[2020.11.30-12.04.47:293][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.11.30-12.04.47:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0130 seconds. Added 2486 classes and 579 folders.
+[2020.11.30-12.04.47:315][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.30-12.04.47:368][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.30-12.04.47:376][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.11.30-12.04.47:500][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.30-12.04.48:150][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.30-12.04.48:156][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.30-12.04.48:246][  0]LogRenderer: Reallocating scene render targets to support 1316x488 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-12.04.48:298][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-12.04.48:455][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.30-12.04.48:455][  0]LogLoad: (Engine Initialization) Total time: 14.10 seconds
+[2020.11.30-12.04.48:455][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.30-12.04.48:508][  0]LeapMotionLog: serviceMessageLoop started.
+[2020.11.30-12.04.48:509][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2020.11.30-12.04.48:509][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2020.11.30-12.04.48:541][  0]LeapMotionLog: LeapService: OnConnect.
+[2020.11.30-12.04.48:579][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.30-12.04.48:617][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/workspace/OpenCV_Integration/Content/' took 0.09s
+[2020.11.30-12.04.48:648][  1]LogAssetRegistry: Asset discovery search completed in 8.8856 seconds
+[2020.11.30-12.04.48:650][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.11.30-12.04.48:650][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000107 seconds (updated 0 objects)
+[2020.11.30-12.04.49:744][ 30]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.30-12.04.51:045][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-12.04.53:016][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.30-12.04.57:351][257]LogSlate: Window 'Plugins' being destroyed
+[2020.11.30-12.04.57:356][257]LogSlate: Window 'Plugins' being destroyed
+[2020.11.30-12.04.57:356][257]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.11.30-12.04.57:356][257]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Plugins/' was aborted.
+[2020.11.30-12.04.59:320][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-12.04.59:426][319]LogRenderer: Reallocating scene render targets to support 1316x500 Format 10 NumSamples 1 (Frame:225).
+[2020.11.30-12.04.59:490][320]LogRenderer: Reallocating scene render targets to support 1316x544 Format 10 NumSamples 1 (Frame:227).
+[2020.11.30-12.04.59:560][321]LogRenderer: Reallocating scene render targets to support 1316x596 Format 10 NumSamples 1 (Frame:229).
+[2020.11.30-12.04.59:625][322]LogRenderer: Reallocating scene render targets to support 1316x608 Format 10 NumSamples 1 (Frame:231).
+[2020.11.30-12.04.59:695][323]LogRenderer: Reallocating scene render targets to support 1316x612 Format 10 NumSamples 1 (Frame:233).
+[2020.11.30-12.05.44:780][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-12.05.50:536][843]LogSlate: Window 'Plugins' being destroyed
+[2020.11.30-12.05.50:540][843]LogSlate: Window 'Plugins' being destroyed
+[2020.11.30-12.05.50:541][843]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.11.30-12.05.50:541][843]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Plugins/' was aborted.
+[2020.11.30-12.05.51:538][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-12.05.51:992][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d61168f40, Size=272, Default__InteractableWidgetActor_C Function /Game/Modules/UMGUI/InteractableWidgetActor.InteractableWidgetActor_C:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.51:994][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d14853200, Size=256, Default__BasicTestUMG_C Function /Game/Modules/UMGUI/BasicTestUMG.BasicTestUMG_C:ExecuteUbergraph_BasicTestUMG
+[2020.11.30-12.05.52:001][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d61168cc0, Size=272, Default__InteractableWorldConsole_C Function /Game/Modules/UMGUI/InteractableWidgetActor.InteractableWidgetActor_C:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:007][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d32551b80, Size=4, Default__OutputConsole_C Function /Game/Modules/Debug/OutputConsole.OutputConsole_C:ExecuteUbergraph_OutputConsole
+[2020.11.30-12.05.52:011][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d61168680, Size=272, Default__InteractableWorldConsole_C Function /Game/Modules/UMGUI/InteractableWidgetActor.InteractableWidgetActor_C:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:029][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d61168f40, Size=272
+[2020.11.30-12.05.52:029][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d61168f40, Size=272, Default__InteractableWidgetActor_C Function /Engine/Transient.REINST_InteractableWidgetActor_C_34:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d61168680, Size=272
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d61168680, Size=272, Default__InteractableWorldConsole_C Function /Engine/Transient.REINST_InteractableWidgetActor_C_34:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d14853200, Size=256
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d1482db00, Size=256, Default__BasicTestUMG_C Function /Engine/Transient.REINST_BasicTestUMG_C_0:ExecuteUbergraph_BasicTestUMG
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d32551b80, Size=4
+[2020.11.30-12.05.52:030][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d32551b80, Size=4, Default__OutputConsole_C Function /Engine/Transient.REINST_OutputConsole_C_1:ExecuteUbergraph_OutputConsole
+[2020.11.30-12.05.52:045][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d377bae80, Size=272, Default__InteractableWidgetActor_C Function /Game/Modules/UMGUI/InteractableWidgetActor.InteractableWidgetActor_C:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:046][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d377bb600, Size=272, Default__InteractableWorldConsole_C Function /Game/Modules/UMGUI/InteractableWidgetActor.InteractableWidgetActor_C:ExecuteUbergraph_InteractableWidgetActor
+[2020.11.30-12.05.52:049][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d7dc0ce00, Size=256, Default__BasicTestUMG_C Function /Game/Modules/UMGUI/BasicTestUMG.BasicTestUMG_C:ExecuteUbergraph_BasicTestUMG
+[2020.11.30-12.05.52:051][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d7dc27d08, Size=4, Default__OutputConsole_C Function /Game/Modules/Debug/OutputConsole.OutputConsole_C:ExecuteUbergraph_OutputConsole
+[2020.11.30-12.05.52:122][875]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2020.11.30-12.05.52:527][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d99babc50, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.11.30-12.05.52:528][875]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d99babc48, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.11.30-12.05.53:938][875]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.30-12.05.54:077][876]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.30-12.05.55:508][918]LogSlate: Window 'BP_MediaPlayerActor' being destroyed
+[2020.11.30-12.05.56:610][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-12.09.56:230][ 77]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1bb1ae0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.13.23:606][214]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.13.23:621][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1bb1ae0, Size=4
+[2020.11.30-12.13.23:622][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dafd42818, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_47:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.13.23:637][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d7423e5c0, Size=136
+[2020.11.30-12.13.23:637][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d323356c0, Size=136, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_49:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.13.23:644][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db033f040, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.13.23:987][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d61168f40, Size=272
+[2020.11.30-12.13.23:987][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d1482db00, Size=256
+[2020.11.30-12.13.23:987][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d61168680, Size=272
+[2020.11.30-12.13.23:987][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d32551b80, Size=4
+[2020.11.30-12.13.23:987][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dafd42818, Size=4
+[2020.11.30-12.13.24:448][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.13.24:523][226]LogSavePackage: Save=49.60ms
+[2020.11.30-12.13.24:523][226]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor71A9552249BFFDFDFA9574BD1485AC24.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.13.24:525][226]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.13.25:855][266]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.13.25:900][266]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d323356c0, Size=136
+[2020.11.30-12.13.27:396][266]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.13.27:504][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.13.27:547][266]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4d8d28, Size=4
+[2020.11.30-12.13.27:547][266]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dafd41c70, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_53:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.13.27:547][266]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dafd428d0, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.13.27:714][266]LogSavePackage: Save=170.54ms
+[2020.11.30-12.13.27:714][266]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMapF87FB78D43488000886A7EA053F2BC69.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.13.27:717][266]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.13.27:759][266]LogFileHelpers: Saving map 'ServerTestMap' took 0.341
+[2020.11.30-12.13.27:763][266]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.14.33:170][226]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.14.33:200][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db033f040, Size=176
+[2020.11.30-12.14.33:200][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e92500, Size=176, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_57:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.14.33:208][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3129000, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.14.33:538][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dafd41c70, Size=4
+[2020.11.30-12.14.33:962][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.14.34:022][237]LogSavePackage: Save=46.68ms
+[2020.11.30-12.14.34:022][237]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor9432FF4F4813DA32E41C2F95254AA023.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.14.34:024][237]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.15.35:310][ 71]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.15.35:354][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e92500, Size=176
+[2020.11.30-12.15.36:498][ 71]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.15.36:604][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.15.36:638][ 71]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dafd428d0, Size=4
+[2020.11.30-12.15.36:638][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7e748, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_61:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.15.36:639][ 71]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7f228, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.15.36:789][ 71]LogSavePackage: Save=152.45ms
+[2020.11.30-12.15.36:789][ 71]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap91A3CA644EABF269A25E17B99EABB750.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.15.36:791][ 71]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.15.36:832][ 71]LogFileHelpers: Saving map 'ServerTestMap' took 0.311
+[2020.11.30-12.15.36:836][ 71]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.17.48:392][937]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.30-12.18.33:960][304]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.18.33:990][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3129000, Size=176
+[2020.11.30-12.18.33:990][304]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d611aa440, Size=176, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_65:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.18.33:998][304]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dbdad6e00, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.18.34:324][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7e748, Size=4
+[2020.11.30-12.18.50:001][773]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.18.50:031][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dbdad6e00, Size=176
+[2020.11.30-12.18.50:031][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d611abdc0, Size=176, BP_MediaPlayerActor_C_15 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_69:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.18.50:038][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0502a40, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.18.50:364][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d611aa440, Size=176
+[2020.11.30-12.18.50:622][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.18.50:690][779]LogSavePackage: Save=46.16ms
+[2020.11.30-12.18.50:691][779]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorE0C0421F4F076ACEFCFAD98B38FDF951.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.18.50:692][779]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.18.52:361][817]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.18.52:405][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d611abdc0, Size=176
+[2020.11.30-12.18.54:627][817]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.18.54:732][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.18.54:774][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7f228, Size=4
+[2020.11.30-12.18.54:774][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae316048, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_73:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.18.54:775][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae316670, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.18.54:927][817]LogSavePackage: Save=155.25ms
+[2020.11.30-12.18.54:928][817]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap501885734C37B234E023CD9B5012482C.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.18.54:929][817]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.18.54:971][817]LogFileHelpers: Saving map 'ServerTestMap' took 0.324
+[2020.11.30-12.18.54:975][817]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.19.46:532][359]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.19.46:562][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0502a40, Size=176
+[2020.11.30-12.19.46:562][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d27b75300, Size=176, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_77:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.19.46:570][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d377fcdc0, Size=168, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.19.46:892][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae316048, Size=4
+[2020.11.30-12.19.47:479][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.19.47:540][375]LogSavePackage: Save=46.94ms
+[2020.11.30-12.19.47:540][375]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor6DA870204955F4DDD4F71FB9E7197BB9.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.19.47:542][375]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.19.49:296][426]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.19.49:340][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d27b75300, Size=176
+[2020.11.30-12.19.51:087][426]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.19.51:192][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.19.51:226][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae316670, Size=4
+[2020.11.30-12.19.51:226][426]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae316670, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_81:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.19.51:226][426]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae3155e8, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.19.51:378][426]LogSavePackage: Save=154.20ms
+[2020.11.30-12.19.51:378][426]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap7A44DC0D44F57DF76D0D78918BD40DAD.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.19.51:380][426]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.19.51:424][426]LogFileHelpers: Saving map 'ServerTestMap' took 0.316
+[2020.11.30-12.19.51:428][426]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.21.34:901][518]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.21.34:933][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d377fcdc0, Size=168
+[2020.11.30-12.21.34:933][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db16c0100, Size=168, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_85:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.21.34:941][518]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db47fbdc0, Size=176, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.21.35:276][518]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae316670, Size=4
+[2020.11.30-12.21.36:065][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.21.36:295][540]LogSavePackage: Save=216.59ms
+[2020.11.30-12.21.36:296][540]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor3BE34ACB456ADC0099742CA634BBA55F.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.21.36:300][540]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.21.52:536][ 27]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7d7d0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.21.59:769][240]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7d7d0, Size=4
+[2020.11.30-12.21.59:769][240]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7d7d0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_89:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.21.59:772][240]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7df50, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.22.29:289][122]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7df50, Size=4
+[2020.11.30-12.22.29:289][122]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4254a10, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_91:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.22.29:293][122]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4254948, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.22.32:324][211]LogRenderer: Reallocating scene render targets to support 1640x676 Format 10 NumSamples 1 (Frame:1).
+[2020.11.30-12.23.19:752][621]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4254948, Size=4
+[2020.11.30-12.23.19:752][621]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae316ac8, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_93:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.23.19:755][621]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dae314750, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.23.24:457][761]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae314750, Size=4
+[2020.11.30-12.23.24:458][761]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f46d48, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_95:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.23.24:461][761]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f46e18, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.23.39:410][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f46e18, Size=4
+[2020.11.30-12.23.39:410][207]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4d676c8, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_97:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.23.39:413][207]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4d66f28, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.36:390][904]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4d66f28, Size=4
+[2020.11.30-12.24.36:390][904]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1bb2410, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_99:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.36:394][904]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1bb1b20, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.54:882][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1bb1b20, Size=4
+[2020.11.30-12.24.54:882][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1bb1b20, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_101:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.54:885][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1bb32f0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.58:315][559]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1bb32f0, Size=4
+[2020.11.30-12.24.58:315][559]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4d65b80, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_103:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.58:318][559]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4d65a58, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.24.59:756][600]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.30-12.25.00:800][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4d65a58, Size=4
+[2020.11.30-12.25.00:800][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db42571a0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_105:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.00:804][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4257ab0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.01:731][659]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.25.01:750][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4257ab0, Size=4
+[2020.11.30-12.25.01:750][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4257ab0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_107:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.01:768][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db47fbdc0, Size=176
+[2020.11.30-12.25.01:768][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dbb937d00, Size=176, BP_MediaPlayerActor_C_50 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_109:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.01:777][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db42551d0, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4257ab0, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db42571a0, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4d65b80, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1bb1b20, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1bb2410, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4d676c8, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f46d48, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae316ac8, Size=4
+[2020.11.30-12.25.02:126][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4254a10, Size=4
+[2020.11.30-12.25.02:127][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db16c0100, Size=168
+[2020.11.30-12.25.02:127][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7d7d0, Size=4
+[2020.11.30-12.25.02:945][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.25.03:024][682]LogSavePackage: Save=56.72ms
+[2020.11.30-12.25.03:024][682]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorBD0757334B2E321219DB12BE3D4F6884.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.25.03:026][682]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.25.17:138][105]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.25.17:177][105]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db42551d0, Size=4
+[2020.11.30-12.25.17:177][105]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db42551d0, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_113:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.17:185][105]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4257f48, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.17:517][105]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dbb937d00, Size=176
+[2020.11.30-12.25.18:191][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.25.18:264][124]LogSavePackage: Save=60.25ms
+[2020.11.30-12.25.18:264][124]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor8457674B44245B252096EBBECC37936F.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.25.18:266][124]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.25.34:021][596]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447c0b0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.41:150][809]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447c0b0, Size=4
+[2020.11.30-12.25.41:150][809]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447c0b0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_117:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.25.41:153][809]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447fa78, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.05:036][519]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447fa78, Size=4
+[2020.11.30-12.26.05:036][519]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b0f68, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_119:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.05:039][519]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b1008, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.19:618][955]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.26.19:637][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b1008, Size=4
+[2020.11.30-12.26.19:638][955]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b1008, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_121:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.19:657][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4257f48, Size=4
+[2020.11.30-12.26.19:657][955]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b1a18, Size=4, BP_MediaPlayerActor_C_65 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_123:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.19:665][955]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b2610, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.19:992][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db42551d0, Size=4
+[2020.11.30-12.26.19:992][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b0f68, Size=4
+[2020.11.30-12.26.19:992][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b1008, Size=4
+[2020.11.30-12.26.19:993][955]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447c0b0, Size=4
+[2020.11.30-12.26.48:200][793]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.26.48:238][793]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b2610, Size=4
+[2020.11.30-12.26.48:238][793]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f44220, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_127:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.48:245][793]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f47808, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.26.48:579][793]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b1a18, Size=4
+[2020.11.30-12.26.49:035][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.26.49:105][805]LogSavePackage: Save=56.57ms
+[2020.11.30-12.26.49:105][805]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorE39A86844426995F11F7959CFA5D158B.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.26.49:107][805]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.27.35:842][195]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.27.35:878][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f47808, Size=4
+[2020.11.30-12.27.35:878][195]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7c500, Size=4, BP_MediaPlayerActor_C_74 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_131:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.27.35:886][195]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7c498, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.27.36:220][195]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f44220, Size=4
+[2020.11.30-12.27.36:635][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.27.36:697][206]LogSavePackage: Save=49.49ms
+[2020.11.30-12.27.36:697][206]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorA30CE04B448DD44A1286338C1023F8C9.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.27.36:699][206]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.28.53:377][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.28.53:448][499]LogSavePackage: Save=57.65ms
+[2020.11.30-12.28.53:448][499]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorE30B60024341493B53C038B02888B7F7.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.28.53:450][499]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.28.54:562][533]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.28.54:606][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7c500, Size=4
+[2020.11.30-12.28.55:830][533]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.28.55:935][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.28.55:975][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dae3155e8, Size=4
+[2020.11.30-12.28.55:975][533]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4254f78, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_135:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.28.55:976][533]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4257e28, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.28.56:145][533]LogSavePackage: Save=171.51ms
+[2020.11.30-12.28.56:145][533]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMapC90494CB416BB97E06DC1F80AE0F2F28.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.28.56:147][533]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.28.56:189][533]LogFileHelpers: Saving map 'ServerTestMap' took 0.337
+[2020.11.30-12.28.56:194][533]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.30.06:207][545]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.30-12.30.50:469][865]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.30.50:506][865]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7c498, Size=4
+[2020.11.30-12.30.50:507][865]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4366288, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_139:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.30.50:515][865]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4367408, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.30.50:846][865]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4254f78, Size=4
+[2020.11.30-12.30.51:322][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.30.51:399][878]LogSavePackage: Save=54.90ms
+[2020.11.30-12.30.51:399][878]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorB001B282413581ABAD8460A36D837F3C.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.30.51:401][878]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.30.54:202][962]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.30.54:246][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4366288, Size=4
+[2020.11.30-12.30.55:660][962]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.30.55:766][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.30.55:801][962]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4257e28, Size=4
+[2020.11.30-12.30.55:801][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f45118, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_143:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.30.55:802][962]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db0f47768, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.30.55:955][962]LogSavePackage: Save=155.14ms
+[2020.11.30-12.30.55:955][962]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap08C214054804CD54228C24931682EBCD.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.30.55:957][962]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.30.55:998][962]LogFileHelpers: Saving map 'ServerTestMap' took 0.316
+[2020.11.30-12.30.56:003][962]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.31.34:895][125]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.31.34:933][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4367408, Size=4
+[2020.11.30-12.31.34:933][125]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7dbb0, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_147:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.31.34:941][125]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3e7cac8, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.31.35:273][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f45118, Size=4
+[2020.11.30-12.31.35:554][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.31.35:622][132]LogSavePackage: Save=55.32ms
+[2020.11.30-12.31.35:622][132]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorA414D6F248587C342F574F836C403465.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.31.35:624][132]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.31.37:189][179]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.31.37:233][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7dbb0, Size=4
+[2020.11.30-12.31.38:377][179]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.31.38:483][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.31.38:518][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db0f47768, Size=4
+[2020.11.30-12.31.38:518][179]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db4366588, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_151:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.31.38:519][179]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db43648d0, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.31.38:669][179]LogSavePackage: Save=153.47ms
+[2020.11.30-12.31.38:669][179]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMapF60B97464AF0572F569CA68FBF0A93EE.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.31.38:672][179]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.31.38:715][179]LogFileHelpers: Saving map 'ServerTestMap' took 0.315
+[2020.11.30-12.31.38:719][179]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.32.31:672][763]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.32.31:708][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3e7cac8, Size=4
+[2020.11.30-12.32.31:708][763]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b32d0, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_155:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.32.31:715][763]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b0f30, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.32.32:047][763]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db4366588, Size=4
+[2020.11.30-12.32.32:363][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.32.32:426][771]LogSavePackage: Save=49.71ms
+[2020.11.30-12.32.32:426][771]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorBAB0F6BF4DED45CCA06722A47EF8CF9D.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.32.32:428][771]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.32.33:624][807]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.32.33:668][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b32d0, Size=4
+[2020.11.30-12.32.36:106][807]LogSlate: Window 'Save Content' being destroyed
+[2020.11.30-12.32.36:205][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.32.36:237][807]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db43648d0, Size=4
+[2020.11.30-12.32.36:237][807]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b2ec8, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_159:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.32.36:238][807]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db14b3250, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.32.36:373][807]LogSavePackage: Save=136.91ms
+[2020.11.30-12.32.36:373][807]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMapDBDBFDC142266291205BE19FDFAEB855.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.32.36:375][807]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.32.36:413][807]LogFileHelpers: Saving map 'ServerTestMap' took 0.286
+[2020.11.30-12.32.36:417][807]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.32.53:705][324]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db46e4140, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.32.56:415][404]LogEditorViewport: Clicking on Actor (LMB): BP_MediaPlayerActor_C (BP_MediaPlayerActor)
+[2020.11.30-12.33.00:857][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.30-12.33.01:457][554]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.33.01:475][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db46e4140, Size=4
+[2020.11.30-12.33.01:475][554]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105f810, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_163:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.01:495][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b0f30, Size=4
+[2020.11.30-12.33.01:495][554]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105fb40, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_165:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.01:502][554]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105e1d8, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.01:846][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105f810, Size=4
+[2020.11.30-12.33.01:846][554]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b2ec8, Size=4
+[2020.11.30-12.33.02:294][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.33.02:362][566]LogSavePackage: Save=53.43ms
+[2020.11.30-12.33.02:363][566]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorFD6C26BD4251BEC541705C8DA6710EAA.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.33.02:365][566]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.33.07:944][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.33.07:965][732]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105fb40, Size=4
+[2020.11.30-12.33.07:979][732]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db14b3250, Size=4
+[2020.11.30-12.33.07:979][732]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db11476d0, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_169:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.07:980][732]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1147540, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.08:132][732]LogSavePackage: Save=154.12ms
+[2020.11.30-12.33.08:132][732]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap052D4D344BE93C93DEFEBB82095E326F.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.33.08:134][732]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.33.08:180][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap_BuiltData" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset" SILENT=true
+[2020.11.30-12.33.08:236][732]LogSavePackage: Save=35.87ms
+[2020.11.30-12.33.08:237][732]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap_BuiltDataF4F2628646C4EF4437D821B0E8B83475.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset'
+[2020.11.30-12.33.08:237][732]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset
+[2020.11.30-12.33.15:933][960]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1145b60, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.15:941][960]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1145b60, Size=4
+[2020.11.30-12.33.15:941][960]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1145b60, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_173:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.15:945][960]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db1147870, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.18:468][ 35]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1147870, Size=4
+[2020.11.30-12.33.18:468][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105d768, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_175:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.18:472][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105efd0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.18:480][ 35]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105efd0, Size=4
+[2020.11.30-12.33.18:480][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105efd0, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_177:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.18:484][ 35]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db105dc28, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.SKEL_BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.20:203][ 86]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.33.20:220][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105dc28, Size=4
+[2020.11.30-12.33.20:220][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d90620, Size=4, Default__SKEL_BP_MediaPlayerActor_C Function /Engine/Transient.REINST_SKEL_BP_MediaPlayerActor_C_179:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.20:237][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105e1d8, Size=4
+[2020.11.30-12.33.20:237][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d91d10, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_181:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.20:245][ 86]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d92a00, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.33.20:592][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105efd0, Size=4
+[2020.11.30-12.33.20:592][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d90620, Size=4
+[2020.11.30-12.33.20:594][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db105d768, Size=4
+[2020.11.30-12.33.20:594][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1145b60, Size=4
+[2020.11.30-12.33.20:594][ 86]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db11476d0, Size=4
+[2020.11.30-12.33.20:943][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.33.21:007][ 95]LogSavePackage: Save=51.32ms
+[2020.11.30-12.33.21:007][ 95]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor3EBD90204E3BB777360ECA890835F227.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.33.21:009][ 95]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.33.25:007][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.33.25:027][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d91d10, Size=4
+[2020.11.30-12.33.25:040][214]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db1147540, Size=4
+[2020.11.30-12.33.25:040][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d915e8, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_185:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.25:041][214]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d91008, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.25:192][214]LogSavePackage: Save=152.97ms
+[2020.11.30-12.33.25:192][214]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap4A6E34FA4CB2A23DEA6636863ECC90B8.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.33.25:194][214]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.33.25:238][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap_BuiltData" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset" SILENT=true
+[2020.11.30-12.33.25:281][214]LogSavePackage: Save=30.15ms
+[2020.11.30-12.33.25:281][214]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap_BuiltData2AE16242468C820E64AC84A7E6D176E5.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset'
+[2020.11.30-12.33.25:282][214]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset
+[2020.11.30-12.33.26:037][237]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.33.26:080][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d915e8, Size=4
+[2020.11.30-12.33.26:081][237]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.33.44:828][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.33.44:861][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d91008, Size=4
+[2020.11.30-12.33.44:861][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bd790, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_189:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.44:862][796]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bf4e0, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.33.45:004][796]LogSavePackage: Save=144.93ms
+[2020.11.30-12.33.45:004][796]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMapB482B24E444F019E494227B9D88B4059.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.33.45:006][796]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.33.45:046][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap_BuiltData" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset" SILENT=true
+[2020.11.30-12.33.45:085][796]LogSavePackage: Save=26.51ms
+[2020.11.30-12.33.45:085][796]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap_BuiltData4C9EA4454D4CFD28F001E0A9DF90FA05.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset'
+[2020.11.30-12.33.45:085][796]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset
+[2020.11.30-12.33.45:704][815]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.33.45:745][815]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bd790, Size=4
+[2020.11.30-12.33.45:746][815]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.34.10:346][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.34.10:393][542]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bf4e0, Size=4
+[2020.11.30-12.34.10:393][542]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447f958, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_193:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.34.10:393][542]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447d348, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.34.10:525][542]LogSavePackage: Save=133.31ms
+[2020.11.30-12.34.10:525][542]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap428D7F2E406C5231196632B0135CABEF.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.34.10:527][542]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.34.10:565][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap_BuiltData" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset" SILENT=true
+[2020.11.30-12.34.10:604][542]LogSavePackage: Save=26.12ms
+[2020.11.30-12.34.10:604][542]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap_BuiltDataD53E0B5B4832529759735598F7DC2D7A.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset'
+[2020.11.30-12.34.10:604][542]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset
+[2020.11.30-12.34.37:971][363]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.34.38:005][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d92a00, Size=4
+[2020.11.30-12.34.38:006][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447d970, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_197:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.34.38:013][363]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db447ec68, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.34.38:357][363]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447f958, Size=4
+[2020.11.30-12.34.38:674][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.34.38:736][371]LogSavePackage: Save=49.09ms
+[2020.11.30-12.34.38:736][371]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor5E008B9A49D49AE5E0589B885A2366E4.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.34.38:738][371]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.34.48:717][669]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.34.48:752][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447ec68, Size=4
+[2020.11.30-12.34.48:752][669]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d90ce0, Size=4, BP_MediaPlayerActor_C_113 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_201:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.34.48:759][669]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d90df0, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.34.49:096][669]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447d970, Size=4
+[2020.11.30-12.34.49:352][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.34.49:417][675]LogSavePackage: Save=51.93ms
+[2020.11.30-12.34.49:417][675]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorD4F10CA1466E4793F02B1E9F92BB8CD0.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.34.49:419][675]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.35.16:149][476]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.35.16:182][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d90df0, Size=4
+[2020.11.30-12.35.16:182][476]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bf588, Size=4, Default__BP_MediaPlayerActor_C Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_205:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.35.16:190][476]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bc1b8, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.35.16:534][476]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d90ce0, Size=4
+[2020.11.30-12.35.16:861][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.35.16:928][484]LogSavePackage: Save=53.61ms
+[2020.11.30-12.35.16:928][484]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActorBB409771446F6046D6626D9157B7C57D.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.35.16:930][484]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.35.45:727][344]BlueprintLog: New page: Compile BP_MediaPlayerActor
+[2020.11.30-12.35.45:758][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bc1b8, Size=4
+[2020.11.30-12.35.45:759][344]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bc1b8, Size=4, BP_MediaPlayerActor_C_122 Function /Engine/Transient.REINST_BP_MediaPlayerActor_C_209:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.35.45:766][344]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db40bebf0, Size=4, Default__BP_MediaPlayerActor_C Function /Game/Movies/BP_MediaPlayerActor.BP_MediaPlayerActor_C:ExecuteUbergraph_BP_MediaPlayerActor
+[2020.11.30-12.35.46:114][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bf588, Size=4
+[2020.11.30-12.35.46:568][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/BP_MediaPlayerActor" FILE="Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset" SILENT=true
+[2020.11.30-12.35.46:629][356]LogSavePackage: Save=47.71ms
+[2020.11.30-12.35.46:629][356]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/BP_MediaPlayerActor45D9147A4043553BCE9BCF8908E5A2D0.tmp' to 'Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset'
+[2020.11.30-12.35.46:631][356]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/Movies/BP_MediaPlayerActor.uasset
+[2020.11.30-12.35.49:795][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.30-12.35.49:816][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bc1b8, Size=4
+[2020.11.30-12.35.49:829][451]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db447d348, Size=4
+[2020.11.30-12.35.49:829][451]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d92a80, Size=4, Default__ServerTestMap_C Function /Engine/Transient.REINST_ServerTestMap_C_213:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.35.49:830][451]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021db3d91a00, Size=4, Default__ServerTestMap_C Function /Game/ServerTestMap.ServerTestMap_C:ExecuteUbergraph_ServerTestMap
+[2020.11.30-12.35.49:981][451]LogSavePackage: Save=153.40ms
+[2020.11.30-12.35.49:981][451]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap4B90DBE64441ADCB2BD38B913216F578.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap'
+[2020.11.30-12.35.49:983][451]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap.umap
+[2020.11.30-12.35.50:027][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ServerTestMap_BuiltData" FILE="Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset" SILENT=true
+[2020.11.30-12.35.50:070][451]LogSavePackage: Save=30.32ms
+[2020.11.30-12.35.50:070][451]LogSavePackage: Moving 'Z:/workspace/OpenCV_Integration/Saved/ServerTestMap_BuiltDataB4562CF14185217EA61076BBAB9FE129.tmp' to 'Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset'
+[2020.11.30-12.35.50:071][451]LogSavePackage: Display: Finished SavePackage Z:/workspace/OpenCV_Integration/Content/ServerTestMap_BuiltData.uasset
+[2020.11.30-12.36.04:934][889]LogTemp: Repeating last play command: Standalone Game
+[2020.11.30-12.36.04:976][889]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d92a80, Size=4
+[2020.11.30-12.36.04:977][889]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2020.11.30-12.36.29:390][578]LogSlate: Window 'OpenCV_Integration - Unreal Editor' being destroyed
+[2020.11.30-12.36.29:870][579]Cmd: QUIT_EDITOR
+[2020.11.30-12.36.29:935][579]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.30-12.36.29:947][579]LogExit: Preparing to exit.
+[2020.11.30-12.36.31:034][579]LogExit: Editor shut down
+[2020.11.30-12.36.31:042][579]LogExit: Transaction tracking system shut down
+[2020.11.30-12.36.31:043][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e3b6f70, Size=72
+[2020.11.30-12.36.31:043][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4da050, Size=4
+[2020.11.30-12.36.31:043][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0e4d9eb8, Size=4
+[2020.11.30-12.36.31:043][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0deab100, Size=752
+[2020.11.30-12.36.31:045][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d721b2400, Size=1160
+[2020.11.30-12.36.31:045][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d0b79b430, Size=104
+[2020.11.30-12.36.31:046][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db40bebf0, Size=4
+[2020.11.30-12.36.31:047][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d377bae80, Size=272
+[2020.11.30-12.36.31:047][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d377bb600, Size=272
+[2020.11.30-12.36.31:047][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d7dc0ce00, Size=256
+[2020.11.30-12.36.31:047][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d7dc27d08, Size=4
+[2020.11.30-12.36.31:048][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d99babc50, Size=4
+[2020.11.30-12.36.31:048][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d99babc48, Size=4
+[2020.11.30-12.36.31:050][579]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021db3d91a00, Size=4
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.11.30-12.36.31:234][579]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.11.30-12.36.31:357][579]LogExit: Object subsystem successfully closed.
+[2020.11.30-12.36.31:380][579]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.30-12.36.31:385][579]LogD3D11RHI: Shutdown
+[2020.11.30-12.36.31:385][579]LogD3D11RHI: CleanupD3DDevice
+[2020.11.30-12.36.31:390][579]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.30-12.36.31:422][579]LogModuleManager: Shutting down and abandoning module BlueprintGraph (596)
+[2020.11.30-12.36.31:422][579]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (594)
+[2020.11.30-12.36.31:422][579]LogModuleManager: Shutting down and abandoning module SceneOutliner (592)
+[2020.11.30-12.36.31:422][579]LogModuleManager: Shutting down and abandoning module AddContentDialog (590)
+[2020.11.30-12.36.31:422][579]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module WidgetCarousel (589)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module EditorWidgets (586)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module CollectionManager (584)
+[2020.11.30-12.36.31:425][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Content/Collections/' was aborted.
+[2020.11.30-12.36.31:425][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Content/Developers/fabio/Collections/' was aborted.
+[2020.11.30-12.36.31:425][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Saved/Collections/' was aborted.
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module StatsViewer (582)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module FoliageEdit (580)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module LandscapeEditor (578)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module MeshPaintMode (576)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (574)
+[2020.11.30-12.36.31:425][579]LogModuleManager: Shutting down and abandoning module ActorPickerMode (572)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module GeometryMode (570)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module TextureAlignMode (568)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module BspMode (566)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (564)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module HardwareSurvey (562)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (560)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AutomationWorker (558)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (556)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module SequenceRecorder (555)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (552)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (550)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module PlacementMode (549)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module MaterialEditor (548)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (544)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (542)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (540)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (538)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (536)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (534)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (532)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (530)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (528)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (526)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module CharacterAI (524)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module SmartSnapping (522)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module SessionServices (520)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module ViewportSnapping (518)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module ViewportInteraction (516)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module ClothPainter (514)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (513)
+[2020.11.30-12.36.31:426][579]LogModuleManager: Shutting down and abandoning module LogVisualizer (510)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module IntroTutorials (508)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (507)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (504)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (502)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (500)
+[2020.11.30-12.36.31:427][579]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (499)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (496)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (494)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (492)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module InputBindingEditor (490)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module MergeActors (488)
+[2020.11.30-12.36.31:830][579]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (486)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module LocalizationService (485)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module HardwareTargeting (482)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (480)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module UndoHistory (478)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module XmlParser (476)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module Blutility (474)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (472)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (471)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (468)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module SettingsEditor (466)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module ProjectLauncher (464)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module SessionFrontend (462)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module ProfilerClient (460)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module DeviceManager (458)
+[2020.11.30-12.36.31:831][579]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (457)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module AutomationController (454)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module AutomationWindow (452)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module Layers (450)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (448)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module DetailCustomizations (446)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module PackagesDialog (444)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module Persona (442)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (441)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module AnimGraph (439)
+[2020.11.30-12.36.31:893][579]LogModuleManager: Shutting down and abandoning module Kismet (436)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module GraphEditor (434)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module ClassViewer (432)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module Toolbox (430)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module ModuleUI (428)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module MovieSceneTools (426)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module OutputLog (424)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module GammaUI (422)
+[2020.11.30-12.36.31:900][579]LogModuleManager: Shutting down and abandoning module Documentation (420)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (418)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module MovieScene (416)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (414)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module LauncherPlatform (412)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module AnalyticsET (410)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module PortalServices (408)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module PortalRpc (406)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module MessagingRpc (404)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module AIModule (402)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module GameplayDebugger (401)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module AITestSuite (399)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module DesktopPlatform (396)
+[2020.11.30-12.36.31:901][579]LogModuleManager: Shutting down and abandoning module ProfilerService (394)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module TaskGraph (392)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module SteamVRController (390)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (388)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (386)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module OculusInput (384)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (382)
+[2020.11.30-12.36.32:109][579]LogModuleManager: Shutting down and abandoning module LeapMotion (380)
+[2020.11.30-12.36.32:109][579]LeapMotionLog: Leap Plugin shutdown.
+[2020.11.30-12.36.32:110][579]BodyStateLog: Id: 1
+[2020.11.30-12.36.32:110][579]LogUObjectArray: Warning: Invalid object index -572662307
+[2020.11.30-12.36.32:110][579]BodyStateLog: BodyState::Device Detached: Leap Motion (1)
+[2020.11.30-13.11.33:208][579]LeapMotionLog: serviceMessageLoop stopped.
+[2020.11.30-13.11.33:208][579]LeapMotionLog: Connection successfully closed.
+[2020.11.30-13.11.33:208][579]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (378)
+[2020.11.30-13.11.33:208][579]LogModuleManager: Shutting down and abandoning module CableComponent (376)
+[2020.11.30-13.11.33:208][579]LogModuleManager: Shutting down and abandoning module AudioCapture (374)
+[2020.11.30-13.11.33:208][579]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (372)
+[2020.11.30-13.11.33:209][579]LogModuleManager: Shutting down and abandoning module AndroidPermission (370)
+[2020.11.30-13.11.33:209][579]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (366)
+[2020.11.30-13.11.33:209][579]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (364)
+[2020.11.30-13.11.33:211][579]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (362)
+[2020.11.30-13.11.33:211][579]LogModuleManager: Shutting down and abandoning module MediaCompositing (360)
+[2020.11.30-13.11.33:211][579]LogModuleManager: Shutting down and abandoning module LinearTimecode (358)
+[2020.11.30-13.11.33:211][579]LogModuleManager: Shutting down and abandoning module ImgMedia (356)
+[2020.11.30-13.11.33:217][579]LogModuleManager: Shutting down and abandoning module VaRestEditorPlugin (354)
+[2020.11.30-13.11.33:217][579]LogModuleManager: Shutting down and abandoning module HTML5Networking (352)
+[2020.11.30-13.11.33:217][579]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.11.30-13.11.33:218][579]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.11.30-13.11.33:218][579]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.11.30-13.11.33:218][579]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.11.30-13.11.33:219][579]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2020.11.30-13.11.33:219][579]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2020.11.30-13.11.33:219][579]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2020.11.30-13.11.33:219][579]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2020.11.30-13.11.33:220][579]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2020.11.30-13.11.33:221][579]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2020.11.30-13.11.33:222][579]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2020.11.30-13.11.33:223][579]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2020.11.30-13.11.33:224][579]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2020.11.30-13.11.33:225][579]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (314)
+[2020.11.30-13.11.33:225][579]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (312)
+[2020.11.30-13.11.33:225][579]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (310)
+[2020.11.30-13.11.33:225][579]LogModuleManager: Shutting down and abandoning module Paper2DEditor (308)
+[2020.11.30-13.11.33:226][579]LogModuleManager: Shutting down and abandoning module MeshPaint (307)
+[2020.11.30-13.11.33:227][579]LogModuleManager: Shutting down and abandoning module VictoryBPLibrary (304)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (302)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (300)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module PhysXVehicles (298)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module OculusEditor (296)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (294)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module BodyState (292)
+[2020.11.30-13.11.33:237][579]BodyStateLog: Id: 2
+[2020.11.30-13.11.33:237][579]LogUObjectArray: Warning: Invalid object index -572662307
+[2020.11.30-13.11.33:237][579]BodyStateLog: BodyState::Device Detached: HMD (0)
+[2020.11.30-13.11.33:237][579]LogUObjectArray: Warning: Invalid object index -572662307
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module LeapMotionEditor (290)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2020.11.30-13.11.33:237][579]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (284)
+[2020.11.30-13.11.33:239][579]LogModuleManager: Shutting down and abandoning module ApexDestruction (282)
+[2020.11.30-13.11.33:239][579]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2020.11.30-13.11.33:239][579]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2020.11.30-13.11.33:340][579]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2020.11.30-13.11.33:440][579]LogModuleManager: Shutting down and abandoning module VaRestPlugin (274)
+[2020.11.30-13.11.33:440][579]LogModuleManager: Shutting down and abandoning module OSVRInput (272)
+[2020.11.30-13.11.33:441][579]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.30-13.11.33:441][579]LogModuleManager: Shutting down and abandoning module OSVR (270)
+[2020.11.30-13.11.33:443][579]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2020.11.30-13.11.33:443][579]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2020.11.30-13.11.33:443][579]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2020.11.30-13.11.33:443][579]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2020.11.30-13.11.33:443][579]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2020.11.30-13.11.33:444][579]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2020.11.30-13.11.33:447][579]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2020.11.30-13.11.33:447][579]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2020.11.30-13.11.33:448][579]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2020.11.30-13.11.33:448][579]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2020.11.30-13.11.33:448][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Plugins/LeapMotion/Binaries/Win64' was aborted.
+[2020.11.30-13.11.33:449][579]LogDirectoryWatcher: A directory notification for 'Z:/workspace/OpenCV_Integration/Plugins/VictoryPlugin/Binaries/Win64' was aborted.
+[2020.11.30-13.11.33:450][579]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.11.30-13.11.33:451][579]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2020.11.30-13.11.33:452][579]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2020.11.30-13.11.33:452][579]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2020.11.30-13.11.33:453][579]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2020.11.30-13.11.33:827][579]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2020.11.30-13.11.33:827][579]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2020.11.30-13.11.33:827][579]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2020.11.30-13.11.33:829][579]LogModuleManager: Shutting down and abandoning module Media (233)
+[2020.11.30-13.11.33:836][579]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.11.30-13.11.33:837][579]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.11.30-13.11.33:838][579]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.11.30-13.11.33:838][579]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.11.30-13.11.33:838][579]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.11.30-13.11.33:838][579]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.11.30-13.11.33:844][579]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.11.30-13.11.33:854][579]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.11.30-13.11.33:854][579]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2020.11.30-13.11.33:854][579]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2020.11.30-13.11.33:855][579]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.11.30-13.11.33:855][579]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.11.30-13.11.33:855][579]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2020.11.30-13.11.33:861][579]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.11.30-13.11.33:928][579]LogDerivedDataCache: Shutdown
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.11.30-13.11.33:928][579]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2020.11.30-13.11.33:929][579]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.11.30-13.11.33:930][579]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.11.30-13.11.33:930][579]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.11.30-13.11.33:930][579]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.11.30-13.11.33:930][579]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.11.30-13.11.33:930][579]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.30-13.11.33:930][579]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B280F6593-42A6-ACD8-B55A-E68C5E9B2F6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=bab8521b4022a6cb017ff7a4cc426e56%7C20f7ff01b4cc487aadcebc8e202a1917%7C3ffefcc7-867c-4ae7-b603-1150c8181a0c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.11.30-13.11.33:948][579]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.11.30-13.11.33:949][579]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.11.30-13.11.33:955][579]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.11.30-13.11.33:961][579]LogExit: Exiting.
+[2020.11.30-13.11.33:985][579]Log file closed, 11/30/20 10:11:33
